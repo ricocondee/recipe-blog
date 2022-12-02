@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://ricocondee.github.io/recipe-blog/ target="_blank"">
+    <a href="https://ricocondee.github.io/recipe-blog/" target="_blank">
       Demo
     </a>
     <span> | </span>
