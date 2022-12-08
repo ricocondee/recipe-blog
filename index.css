@@ -283,20 +283,9 @@ p {
 }
 
 input[type="checkbox"]{
-  appearance: none;
   width: 21px;
   height: 21px;
-  border-radius: 2.5px;
-  border: .5px solid var(--light-text-color);
-  background-color: var(--light-background-color);
-  outline: none;
-}
-
-input[type="checkbox"]:checked{
-  background-image: url('./assets/icons8-marca-de-verificación-21.svg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: coral;
+  accent-color: coral;
 }
 
 @media (max-width: 840px) {
