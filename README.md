@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://{https://ricocondee.github.io/recipe-blog/}">
+    <a href="https://ricocondee.github.io/recipe-blog/" target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/ricocondee/recipe-blog">
+    <a href="https://github.com/ricocondee/recipe-blog" target="_blank">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht">
+    <a href="https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht" target="_blank">
       Challenge
     </a>
   </h3>
